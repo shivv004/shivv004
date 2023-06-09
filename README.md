@@ -2,4 +2,4 @@
 - 👀 I’m interested in app development and machine learning.
 - 🌱 perpetually seeking to learn.
 - 💞️ I’m looking to collaborate on development projects.
-- 📫 Reach me at shivshank019@gmail.com
+- 📫 Reach me at shivshankar01129@gmail.com
