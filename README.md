@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @shivv004
-- 👀 I’m interested in Software/Web development.
+- 👋 Hi, I’m Shiv Shankar. I’m a Software developer.
 - 🌱 perpetually seeking to learn.
 - 💞️ I’m looking to collaborate on development projects.
 - 📫 Reach me at shivshank019@gmail.com
