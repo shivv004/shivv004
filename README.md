@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shiv Shankar. I’m a Software developer.
+- 👋 Hi, I’m Shiv Shankar. I’m a Full Stack Developer | AI/ML Engineer.
 - 🌱 perpetually seeking to learn.
 - 💞️ I’m looking to collaborate on development projects.
 - 📫 Reach me at shivshank019@gmail.com
