@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shiv Shankar. I’m a Full Stack Developer | AI/ML Engineer.
+- 👋 Hi, I’m Shiv Shankar. I’m a Full Stack MLOps Engineer.
 - 🌱 perpetually seeking to learn.
-- 💞️ I’m looking to collaborate on development projects.
+- 💞️ I’m looking to collaborate on different projects.
 - 📫 Reach me at shivshank019@gmail.com
